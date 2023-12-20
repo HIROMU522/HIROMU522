@@ -1,7 +1,19 @@
 <h1>
   Welcome!
 </h1>
+- [English](README_EN.md)
+- [中文](README_ZH.md)
+- [日本語](README_JP.md)
+<h2>
+  🔋My Status
+</h2>
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=HIROMU522&count_private=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIROMU522" />
+  <img alt="Top Langs" height="250px" src="https://github-readme-stats.vercel.app/api?username=HIROMU522&count_private=true&show_icons=true" />
+  <img alt="github stats" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIROMU522" />
 </p>
+
+<h2>
+  🏆Git Hub Trophy
+</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HIROMU522&column=8)](https://github.com/ryo-ma/github-profile-trophy)
