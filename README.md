@@ -1,9 +1,6 @@
 <h1>
   Welcome!
 </h1>
-- [English](README_EN.md)
-- [中文](README_ZH.md)
-- [日本語](README_JP.md)
 <h2>
   🔋My Status
 </h2>
