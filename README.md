@@ -5,8 +5,8 @@
   🔋My Status
 </h2>
 <p align="left"> 
-  <img alt="Top Langs" height="250px" src="https://github-readme-stats.vercel.app/api?username=HIROMU522&count_private=true&show_icons=true" />
-  <img alt="github stats" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIROMU522" />
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api?username=HIROMU522&count_private=true&show_icons=true" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIROMU522" />
 </p>
 
 <h2>
