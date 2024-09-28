@@ -13,8 +13,9 @@ Currently majoring in Computer Science at Kanazawa Institute of Technology as a 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIROMU522&hide=Jupyter%20Notebook&layout=compact" />
 </a>
-<br>
-
+  
+  
+  
 ### 🚀  Products
 - [EcoIntel](https://github.com/HIROMU522/EcoIntel) : This is a project I developed in a university problem-solving class.
 - [Drill Kit](https://github.com/HIROMU522/DrillKit) : This is a project I submitted for the 2024 [Swift Student Challenge](https://developer.apple.com/swift-student-challenge/). This app was created by me.  This app allows you to easily participate in evacuation drills
