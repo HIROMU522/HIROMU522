@@ -13,8 +13,8 @@ Currently majoring in Computer Science at Kanazawa Institute of Technology as a 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIROMU522&hide=Jupyter%20Notebook&layout=compact" />
 </a>
-  
-<br><br>
+
+<div style="clear: both;"></div> <!-- この行を追加 -->
   
 ### 🚀  Products
 - [EcoIntel](https://github.com/HIROMU522/EcoIntel) : This is a project I developed in a university problem-solving class.
