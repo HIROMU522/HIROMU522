@@ -17,9 +17,9 @@ Currently majoring in Computer Science at Kanazawa Institute of Technology as a 
   
 ### 🚀  Products
 - [EcoIntel](https://github.com/HIROMU522/EcoIntel) : This is a project I developed in a university problem-solving class.
-- [Drill Kit](https://github.com/HIROMU522/DrillKit) : This is a project I submitted for the 2024 [Swift Student Challenge](https://developer.apple.com/swift-student-challenge/). This app was created by me.  This app allows you to easily participate in evacuation drills
+- [DrillKit](https://github.com/HIROMU522/DrillKit) : This is a project I submitted for the 2024 [Swift Student Challenge](https://developer.apple.com/swift-student-challenge/). This app was created by me.  This app allows you to easily participate in evacuation drills
 - [Cloudrobe](https://github.com/Yoshiki0418/yahoo.hack) : This is a project created by a team of four during [OpenHackU](https://hacku.yahoo.co.jp/hacku2024_tokyo/) 2024 in Tokyo.
-- [EchoArt](https://github.com/HIROMU522/EchoArt) : This is a project I submitted for the 2025 [Swift Student Challenge](https://developer.apple.com/swift-student-challenge/). This app was created by me.  
+- [EchoArt](https://github.com/HIROMU522/EchoArt) : This is a project I submitted for the 2025 [Swift Student Challenge](https://developer.apple.com/swift-student-challenge/). This app was created by me.  This app can draw pictures with your voice.
 
 ### ✒️  Blog
 - [形態素解析で読み解くコロナ禍の危機感：MecabとTwitter分析の実践](https://qiita.com/HIROMU522/items/0db809b7d7ef894e3cf6)  
