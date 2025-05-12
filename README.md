@@ -31,6 +31,4 @@ Currently majoring in Computer Science at Kanazawa Institute of Technology as a 
 
 ### 📚  Links
 - [Qiita](https://qiita.com/HIROMU522)
-- [Wantedly](https://www.wantedly.com/id/tanaka_hiromu)
 - [LinkdIn](https://www.linkedin.com/in/hiromu-tanaka-15958b2a6/)
-- [Twitter](https://twitter.com/hir__mu)
